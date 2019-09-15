@@ -1,1 +1,9 @@
-hello muchachas!
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.samsclub.tryandgo.base",
+    "sha256_cert_fingerprints":
+    ["44:FE:49:37:35:C1:69:C7:3E:2E:2A:23:49:BB:C8:34:48:EB:C3:3B:05:26:1F:33:03:E4:DA:D4:E3:5A:7A:D2"]
+  }
+}]
